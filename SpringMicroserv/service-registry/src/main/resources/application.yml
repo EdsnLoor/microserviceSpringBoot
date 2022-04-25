@@ -1,0 +1,6 @@
+server:
+  port: 8761
+eureka:
+  client:
+    allow-redirects: false
+    fetch-registry: false
